@@ -1,2 +1,2 @@
-# Excercise
+# Exercise
 My test repository
