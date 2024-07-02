@@ -60,9 +60,9 @@ Here are some basic commands and usage tips:
 | Voice commands not working | Verify that the voice assistant integration is complete. |
 
 See other related documentation: 
-[Google development style guide][Google]
-[Apple style guide][Apple]
-[Kotlin style guide][Kotlin]
+[Google development style guide][Google]  
+[Apple style guide][Apple]  
+[Kotlin style guide][Kotlin]  
 
 [//]: # (These are reference links used in the body of this note)
 [Google]: https://developers.google.com/style
