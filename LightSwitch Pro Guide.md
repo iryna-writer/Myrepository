@@ -59,7 +59,7 @@ Here are some basic commands and usage tips:
 | Cannot connect to Wi-Fi | Check that your Wi-Fi network is operational and within range. |
 | Voice commands not working | Verify that the voice assistant integration is complete. |
 
-See other related documentation: 
+See other related documentation:   
 [Google development style guide][Google]  
 [Apple style guide][Apple]  
 [Kotlin style guide][Kotlin]  
