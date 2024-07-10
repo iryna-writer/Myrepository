@@ -2,7 +2,7 @@
 _version 1.0_  
 The aim of this guide is to explain how the product works.  
 
-Another paragraph. A second sentence.
+One more paragraph. A second sentence.
 
 fvklmcvdl;v  
 nkdcnkdcmld  
